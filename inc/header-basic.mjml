@@ -1,0 +1,8 @@
+<mj-section padding="30px 0 20px 0">
+  <mj-column>
+    <mj-image width="200px" padding="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c5e13ce4dd9ff8eb3/original.png?1549428060" href="https://www.playchip.global/" />
+  </mj-column>
+  <mj-column>
+    <mj-button inner-padding="0" line-height="45px" align="right" text-transform="uppercase" font-family="Oswald" font-size="16px" font-weight="500" color="#00B662" background-color="transparent" href="#">PlayXChange</mj-button>
+  </mj-column>
+</mj-section>

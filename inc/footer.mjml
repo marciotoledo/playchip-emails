@@ -1,0 +1,33 @@
+<mj-section>
+    <mj-column>
+    <mj-social align="center" icon-size="36px" mode="horizontal">
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c37962e54bcc1c8ae/original.png?1549428060" href="https://www.facebook.com/PlayChipFoundation" />
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c1b0e4d2745db9a73/original.png?1549428060" href="https://twitter.com/teamplayup" />
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c3b66cd6cc7827c89/original.png?1549428060" href="https://www.youtube.com/c/PlayChip" />
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c5c5a687cf0857e27/original.png?1549428060" href="https://medium.com/playchip" />
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c733b163eff673229/original.png?1549428060" href="https://t.me/PlayChipTokenSale" />
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655c18bc0a510a4bff79/original.png?1549428060" href="https://www.reddit.com/r/PlayChip/" />
+        <mj-social-element padding="0 5px" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a655cc6a6a616ac5e7f7f/original.png?1549428060" href="https://www.linkedin.com/company/playchip-foundation/" />
+    </mj-social>
+    </mj-column>
+</mj-section>
+
+<mj-section padding="20px 0">
+    <mj-column>
+    <mj-text font-family="Oswald, Impact, sans-serif;" font-weight="300" font-size="16px" color="#999999" align="center">SYDNEY • HONG KONG • LONDON • NEW YORK</mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+    <mj-image width="52px" align="center" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5b0f4314c0acdd25fc23e459/original.gif?1527726868" href="https://playchip.global/" alt="PlayChip" />
+    </mj-column>
+</mj-section>
+
+<mj-section padding="20px 0 40px 0">
+    <mj-column>
+    <mj-text font-weight="400" font-size="13px" line-height="16px" color="#999999" align="center">{{ default.address }}
+        <br><mj-button inner-padding="0" background-color="transparent" href="{{ default.unsubscribe_url }}"><unsubscribe>Unsubscribe</unsubscribe></mj-button> from future emails
+    </mj-text>
+    </mj-column>
+</mj-section>

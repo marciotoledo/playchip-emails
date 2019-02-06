@@ -1,0 +1,12 @@
+<mj-section padding="30px 0 0 0">
+  <mj-column>
+    <mj-image width="550px" padding="0" src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5c5a751b1b0e4d3570634f50/original.png?1549432091" href="https://www.playchip.global/" />
+  </mj-column>
+</mj-section>
+
+<mj-section mj-class="block">
+  <mj-column mj-class="content">
+    <mj-text mj-class="title">Hello Ryan,</mj-text>
+    <mj-text mj-class="text">We revealed a great update from PlayChip. Learn more about this and other news below. So without futher ado, let’s get to that.</mj-text>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,42 @@
+<mjml>
+
+  <mj-include path="./inc/head.mjml" />
+
+  <mj-body width="550px" background-color="#F3F5F7">
+
+    <mj-include path="./inc/header-intro.mjml" />
+    
+    <mj-section>
+      <mj-column>
+        <mj-image width="550px" padding="0" src="http://placehold.it/550x350" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="block">
+      <mj-column mj-class="content">
+        <mj-text mj-class="title">Built for the Future</mj-text>
+        <mj-text mj-class="text">Our tools have been designed to meet the needs of users, operators and regulators across the globe. PlayChip delivers users unprecedented speed, security, and control over their funds all via a simple and intuitive user experience making it easy for non-crypto users to understand.
+        </mj-text>
+        <mj-button mj-class="button button-green" href="#">Check the News</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image width="550px" padding="0" src="http://placehold.it/550x350" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section mj-class="block">
+      <mj-column mj-class="content">
+        <mj-text mj-class="title">PlayXchange, the exchange.</mj-text>
+        <mj-text mj-class="text">Central to our implementation strategy is the PlayXchange™. This revolutionary technology will serve as the base from which users can connect with the entire PlayChip ecosystem, including our own cryptocurrency exchange. This creates a “one-stop-shop” for users of the PlayChip, paving the way to mass adoption within the global gaming economy.</mj-text>
+        <mj-button mj-class="button button-orange" href="#">Go to PlayXChange</mj-button>
+      </mj-column>
+    </mj-section>
+    
+		<mj-include path="./inc/footer.mjml" />
+
+  </mj-body>
+
+</mjml>
