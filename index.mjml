@@ -1,0 +1,45 @@
+<mjml>
+
+  <mj-head>
+    <mj-font name="Oswald" href="https://fonts.googleapis.com/css?family=Oswald:300,500" />
+    <mj-font name="Source Sans Pro" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" />
+    
+    <mj-attributes>
+      <mj-all padding="0" align="left" color="#383838" font-family="Source Sans Pro, Helvetica, Arial, sans-serif;"/>
+      <mj-class name="title" font-size="32px" font-weight="700" letter-spacing="-1px" padding-bottom="20px" />
+      <mj-class name="text" font-size="16px" font-weight="400" line-height="24px" padding-bottom="20px" />
+      <mj-class name="block" padding="40px 40px 20px 40px" background-color="#fff" />
+      <mj-class name="button" width="260px" height="50px" inner-padding="0" font-family="Oswald, Impact, sans-serif;" font-size="18px" font-weight="500" text-transform="uppercase" color="#fff" background-color="#FF8B03" />  
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body width="550px" background-color="#F3F5F7">
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          This is the header
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+      	<mj-image width="550px" padding="0"  src="http://placehold.it/550x350"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section mj-class="block">
+      <mj-column>
+        <mj-text mj-class="title">PlayXchange, the exchange.</mj-text>
+        <mj-text mj-class="text">Central to our implementation strategy is the PlayXchange™. This revolutionary technology will serve as the base from which users can connect with the entire PlayChip ecosystem, including our own cryptocurrency exchange. This creates a “one-stop-shop” for users of the PlayChip, paving the way to mass adoption within the global gaming economy.</mj-text>
+        <mj-button mj-class="button">Go to PlayXChange</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>
